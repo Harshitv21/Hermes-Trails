@@ -4,4 +4,6 @@
 
 Your go-to website for seamless item tracking on your trips. Effortlessly check whether your items are packed or not.
 
+> Website best viewed from desktop / laptop not currently configured for mobile devices.
+
 [Deployment link](https://hermes-trails.netlify.app/).
